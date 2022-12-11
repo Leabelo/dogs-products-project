@@ -1,0 +1,9 @@
+.Home .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 50px;
+      flex-shrink: 0;
+      justify-content: center;
+
+}
+

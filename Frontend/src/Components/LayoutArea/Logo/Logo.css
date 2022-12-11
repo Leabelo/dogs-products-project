@@ -1,0 +1,19 @@
+.Logo {
+	height: 10%;
+    width: auto;
+    padding: 0px;
+    /* border: 1px solid black; */
+    position:fixed;
+     left: 0.5%;
+    top: 1.5%;
+    z-index: 1000;
+    margin-top: 0px;
+    
+}
+
+.Logo > img, .imagelogo {
+    height: 180%;
+    width: 9rem;
+    border-radius: 70px 70px;
+
+}
